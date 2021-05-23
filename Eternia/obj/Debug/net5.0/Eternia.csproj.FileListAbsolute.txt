@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\Eternia.exe
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\Eternia.deps.json
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\Eternia.runtimeconfig.json
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\Eternia.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\Eternia.dll
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\ref\Eternia.dll
+C:\Users\Aluno\source\repos\Eternia\Eternia\bin\Debug\net5.0\Eternia.pdb
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.dll
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\ref\Eternia.dll
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.pdb
+C:\Users\Aluno\source\repos\Eternia\Eternia\obj\Debug\net5.0\Eternia.genruntimeconfig.cache
