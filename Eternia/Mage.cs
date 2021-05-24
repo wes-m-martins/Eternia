@@ -8,16 +8,18 @@ namespace Eternia
 {
     class Mage : Heroi
     {
-        private Mage(string nome, TipoHeroi genero, uint atk, uint def, uint mag, uint res, uint hp, uint hpmax) : base(nome)
+        public Mage(int id, string nome, TipoHeroi genero, uint atk, uint def, uint mag, uint res, uint hp, uint hpmax, Status status)
         {
+            this.ID = id;
             this.Nome = nome;
-            this.Genero = genero;
+            this.Genero = (TipoHeroi) genero;
             this.ATK = atk;
             this.DEF = def;
             this.MAG = mag;
             this.RES = res;
             this.HP = hp;
             this.HPMAX = hpmax;
+            this.Status = status;
         }
     }
 }

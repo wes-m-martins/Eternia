@@ -6,16 +6,8 @@ using System.Threading.Tasks;
 
 namespace Eternia
 {
-    public abstract class Nativo
+    public interface IAtaquePadrao
     {
-        private Nativo Tipo { get; set; }
-        public string Nome { get; set; }
+
     }
-    
-    
-
-
-
 }
-
-    

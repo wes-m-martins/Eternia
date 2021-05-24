@@ -8,8 +8,8 @@ namespace Eternia
 {
     public enum TipoNativo 
     {
-        Heroi = 1,
-        Aldeao = 2
+        Aldeao = 1,
+        Heroi = 2
 
     }
 
